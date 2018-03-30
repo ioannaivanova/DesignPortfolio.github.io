@@ -1,0 +1,551 @@
+body {
+    margin-left: 18%;
+    width: 64%;
+    height: auto;
+    background-image: url("фон_1.jpg");
+}
+
+.img__size {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.logo__1 {
+    margin-top: 18px;
+    width: 8%;
+    margin-left: 5px;
+}
+
+.el__1 {
+    margin-left: 13%;
+    margin-top: -29px;
+    width: 80%;
+}
+
+.el__2 {
+    margin-left: 20.5%;
+    margin-top: -27px;
+    width: 80%;
+}
+
+.el__3 {
+    margin-left: 27.5%;
+    margin-top: -27px;
+    width: 80%;
+}
+
+.el__4 {
+    margin-left: 35%;
+    margin-top: -27px;
+    width: 80%;
+}
+
+.el__5 {
+    margin-left: 54%;
+    margin-top: -27px;
+    width: 80%;
+}
+
+.el__6 {
+    margin-left: 60%;
+    margin-top: -27px;
+    width: 80%;
+}
+
+.el__7 {
+    margin-left: 65.5%;
+    margin-top: -27px;
+    width: 80%;
+}
+
+.apply {
+    font-family: "Cambria";
+    margin-left: 86.5%;
+    margin-top: -36.3px;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 75px;
+    height: 31px;
+}
+
+.app__1 {
+    font-size: 17px;
+    margin-left: 14px;
+    margin-top: 1px;
+}
+
+.app__2 {
+    font-size: 11px;
+    margin-left: 12px;
+    margin-top: -20px;
+}
+
+.menu__container {
+    font-size: 12px;
+    font-family: "Times New Roman";
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px){
+    p {
+        font-size: 10px;
+    }
+    body {
+        margin-left: 1%;
+        width: 98%;
+        height: auto;
+    }
+    .img__size {
+        width: 100%;
+        height: auto;
+    }
+}
+@media screen and (min-width: 480px) and (max-width: 600px){
+    p {
+        font-size: 12px;
+        color: black;
+    }
+    body {
+        margin-left: 5%;
+        width: 90%;
+        height: auto;
+    }
+    .img__size {
+        width: 100%;
+        height: auto;
+    }
+}
+@media screen and (min-width: 600px) and (max-width: 800px){
+    p{
+        font-size: 16px;
+        color: darkslategrey;
+    }
+    body{
+        margin-left: 7%;
+        width: 86%;
+        height: auto;
+    }
+    .img__size{
+        width: 100%;
+        height: auto;
+    }
+}
+.header__1
+{
+    margin-top: 91px;
+    width: 70%;
+    font-family: Arial;
+    font-size: 35px;
+}
+.header__text
+{
+    font-size: 16px;
+    font-family: Arial;
+    width: 40%;
+    margin-top: -7px;
+}
+
+.tool {
+    margin-left: 550px;
+    margin-top: -116px;
+    width: 275px;
+    height: auto;
+}
+
+.tool__icon
+{
+    margin-left: 604px;
+    margin-bottom: 74px;
+    margin-top: -105px;
+    width: 45px;
+    height: auto;
+}
+
+.tool__text
+{
+    margin-left: 655px;
+    margin-bottom: -122px;
+    margin-top: -113px;
+    font-family: Arial;
+    font-size: 16px;
+    color: white;
+}
+
+.cont__1
+{
+    position: relative;
+    margin-left: 0%;
+    margin-top: 230px;
+    font-size: 24px;
+    font-family: "Arial";
+    color: white;
+}
+
+.foto__1
+{
+    width: 46%;
+    height: auto;
+}
+
+.text1_foto__1
+{
+    margin-left: 2%;
+    margin-top: -97px;
+}
+
+.text2_foto__1
+{
+    margin-left: 2%;
+    margin-top: -14px;
+}
+
+.cont__2
+{
+    position: relative;
+    margin-left: 48.5%;
+    margin-top: -483px;
+    font-size: 24px;
+    width: 58%;
+    height: auto;
+    font-family: "Arial";
+    color: white;
+}
+
+.foto__2
+{
+    width: 80%;
+    height: auto;
+}
+
+.text1_foto__2
+{
+    margin-left: 4%;
+    margin-top: -93px;
+}
+
+.text2_foto__2 {
+    margin-left: 4%;
+    margin-top: -15px;
+}
+
+.cont__3 {
+    position: absolute;
+    margin-left: 31.1%;
+    margin-top: 19px;
+    margin-bottom: 34px;
+    font-size: 24px;
+    width: 30.05%;
+    height: auto;
+    font-family: "Arial";
+    color: white;
+}
+
+.foto__3 {
+    width: 98.6%;
+    height: auto;
+}
+
+.text1_foto__3 {
+    margin-left: 4%;
+    margin-top: -93px;
+}
+
+.text2_foto__3 {
+    margin-left: 4%;
+    margin-top: -18px;
+}
+
+.header__text2 {
+    position: relative;
+    margin-left: 34%;
+    margin-top: 345px;
+    font-size: 30px;
+    width: 58%;
+    height: auto;
+    font-family: "Arial";
+    color: black;
+}
+
+/*
+a:hover {
+    transition: 5s;
+    color: red;
+}
+
+a:active {
+    color: green;
+}
+
+a:visited {
+    color: lightcoral;
+}
+*/
+
+.past__1 {
+    position: relative;
+    margin-left: 36%;
+    margin-top: 8px;
+    font-size: 18px;
+    width: 58%;
+    height: auto;
+    font-family: "Arial";
+    color: black;
+}
+
+
+.flx__cont {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 92%;
+    position: relative;
+    margin-top: 22px;
+}
+
+.cont_event__1 {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.foto__4 {
+    width: 256px;
+    height: auto;
+}
+
+.cont__text__1 {
+    font-size: 25px;
+    margin-left: 8%;
+    margin-top: -311px;
+    font-family: "Arial Black";
+    color: white;
+}
+
+.cont__text__2 {
+    font-size: 30px;
+    margin-left: 8%;
+    margin-top: -29px;
+    font-family: "Arial Black";
+    color: white;
+}
+
+.cont__text__3 {
+    font-size: 16px;
+    margin-left: 0%;
+    margin-top: 224px;
+    font-family: "Arial Black";
+    color: black;
+}
+
+.cont__text__4 {
+    font-size: 16px;
+    margin-left: 0%;
+    margin-top: -9px;
+    font-family: "Arial";
+    color: black;
+}
+
+.view__1 {
+    font-family: "Cambria";
+    margin-left: 37.9%;
+    margin-top: 3.8%;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 148px;
+    height: 31px;
+}
+
+.view__calend {
+    font-size: 19px;
+    margin-left: 16px;
+    margin-top: 3px;
+}
+
+.ssylka__1 {
+    margin-left: 36.5%;
+    font-size: 20px;
+}
+
+.niz__polosa {
+    margin-left: -243px;
+    margin-top: 120px;
+}
+
+.polosa {
+    height: auto;
+    width: 119%;
+}
+
+.polosa__1 {
+    font-size: 30px;
+    color: white;
+    margin-top: -170px;
+    margin-left: 46%;
+}
+
+.polosa__2{
+    font-size: 20px;
+    color: white;
+    margin-top: -28px;
+    margin-left: 44%;
+}
+
+.polosa__3{
+    font-size: 16px;
+    color: white;
+}
+
+.input_first {
+    background-color: transparent;
+    border: none;
+    border-bottom-color: white;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    font-size: 16px;
+    color: white;
+}
+
+.button__first {
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 1px;
+    font-size: 16px;
+    font-family: Arial;
+}
+
+.for__cont {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    position: relative;
+    margin-top: 22px;
+}
+
+.one__of {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    position: relative;
+    margin-top: 52px;
+}
+
+.podzag {
+    font-size: 14px;
+    font-family: "Arial";
+    color: black;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+.ssylka__futor:link {
+    font-size: 14px;
+    font-family: "Arial";
+    color: dimgray;
+}
+
+.icons {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 210px;
+    height: auto;
+    position: relative;
+    margin-top: 22px;
+}
+.ic__1 {
+    width: auto;
+    height: auto;
+}
+
+.poloska_tonk {
+    margin-left: -10%;
+    width: 120%;
+    border: dimgray solid 0.5px;
+}
+
+.ss_1:link {
+
+}
+
+.ss_1:hover {
+    border: dimgray solid 1px;
+}
+
+.ss_1:active {
+    border: black solid 2px;
+}
+
+.ss_1:visited{
+    color: blue;
+    background-color: blue;
+}
+
+.podpis {
+    font-family: "Arial";
+    font-size: 20px;
+    color: dimgray;
+    margin-left: 750px;
+    margin-top: -38px;
+
+}
+/*
+
+    <div class="chinese__div">
+        <select class="chinese">
+            <option>Кузя</option>
+            <option>Филя</option>
+            <option>Мурзик</option>
+            <option>Черныш</option>
+            <option>Пушистик</option>
+        </select>
+    </div>
+
+
+.chinese {
+    border: none;
+    background-color: aquamarine;
+    padding-left: 25px;
+}
+
+.chinese__div {
+    position: relative;
+    display: inline-block;
+}
+
+.chinese__div:before {
+    content: url("icon__1.png");
+    padding: 0 0px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    text-align: start;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    box-sizing: border-box;
+}
+
+.chinese__div:after {
+    content: url("01.jpg");
+    padding: 0 0px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: 1;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    box-sizing: border-box;
+}
+*/
